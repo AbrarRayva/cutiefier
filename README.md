@@ -14,12 +14,14 @@ You can install this program with 2 different methods
 - Open up the directory where you have installed `cutifier.py`
 - Run this command below:
   Using Terminal (Linux / macOS):
+
   ```bash
   $ python cutifier.py
   ```
   Using Windows Command Prompt:
+
   ```bash
   python cutifier.py
   ```
    
-I recommend installing using the first method since you can see the code that you're going to run and also it supports Windows, Linux, macOS, and even Android (via termux and any terminal app).
+I recommend installing using the first method since you can see the code that you're going to run and also it supports Windows, Linux, macOS, and even Android (via termux or any terminal app).
